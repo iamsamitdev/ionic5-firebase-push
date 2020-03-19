@@ -1,0 +1,7 @@
+{
+  "name": "ionic-firebase-push",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
