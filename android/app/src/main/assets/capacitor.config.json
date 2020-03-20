@@ -1,8 +1,0 @@
-{
-  "appId": "com.itgenius.firebasepush",
-  "appName": "Firebase Push",
-  "bundledWebRuntime": false,
-  "npmClient": "npm",
-  "webDir": "www",
-  "cordova": {}
-}

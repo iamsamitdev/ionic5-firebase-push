@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-    <string name="app_name">Firebase Push</string>
-    <string name="title_activity_main">Firebase Push</string>
-    <string name="package_name">com.itgenius.firebasepush</string>
-    <string name="custom_url_scheme">com.itgenius.firebasepush</string>
-</resources>
