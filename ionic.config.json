@@ -1,7 +1,8 @@
 {
   "name": "ionic-firebase-push",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
